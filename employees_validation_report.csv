@@ -1,0 +1,6 @@
+row,column_or_check,details
+3,Invalid email format,"{'ID': '2', 'Name': 'Rahul', 'Email': 'rahul.example.com', 'Age': '22'}"
+4,Missing value in 'Email',"{'ID': '3', 'Name': 'Meena', 'Email': '', 'Age': '20'}"
+5,Age must be a whole number,"{'ID': '4', 'Name': 'Kiran', 'Email': 'kiran@example.com', 'Age': 'abc'}"
+6,Age must be a whole number,"{'ID': '4', 'Name': 'Kiran', 'Email': 'kiran@example.com', 'Age': 'abc'}"
+6,Duplicate row,"{'ID': '4', 'Name': 'Kiran', 'Email': 'kiran@example.com', 'Age': 'abc'}"
